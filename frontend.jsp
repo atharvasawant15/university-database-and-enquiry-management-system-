@@ -1,0 +1,63 @@
+<html><head>   
+    <title>  
+    K J Somaiya Institute of Engineering and Information Technology  
+    </title>  
+    </head>  
+    <body bgcolor="Lightskyblue">  
+    <br>  
+    <br>  
+    <form >  
+      
+   <div> <label> Name </label>         
+    <input type="text" name="name" required="" size="15"> <br><br> </div>  
+       <div> <label>   
+    Course :  
+    </label> 
+<select> 
+<option>computer science</option>
+<option>information technology</option>
+<option>artificial intelligence and data science</option>
+<option>electronics and telecommunication</option>
+</select>  
+      </div>
+      
+    <div><br>  
+    <br>  
+    <label>   
+    Gender :  
+    </label><br>  
+    <input type="radio" name="m" required=""> Male <br>  
+    <input type="radio" name="f" required=""> Female <br>  
+    <input type="radio" name="o" required=""> Other  
+    <br>  
+    <br> </div> 
+      
+    <div><label>   
+    Phone :  
+    </label>  
+    <input type="text" name="country code" value="+91" size="2">   
+    <input type="text" name="phone" required="" size="10"> <br></div>
+<div> <br>  
+    Address  
+    <br>  
+    <textarea cols="80" rows="5" value="address">  
+    </textarea>  
+    <br></div>
+<div> <br>  
+    Email:  
+    <input type="email" id="email" name="email" required=""><br>    
+    <br></div>
+<div> <br>  
+    Password:  
+    <input type="Password" id="pass" name="pass" required=""> <br>   
+    <br></div> 
+<div><br>  
+    Re-type password:  
+    <input type="Password" id="repass" name="repass"> <br></div>
+<div> <br> 
+    <a href="file:///C:/Users/Uday%20Sawant/OneDrive/Desktop/miniporject-front/web.html"> 
+    <input type="button" value="Submit">  
+      
+      
+      
+</a></div></form></body></html>
